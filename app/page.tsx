@@ -1,6 +1,3 @@
 export default function Home() {
-  return (
-    <main className="min-h-screen bg-black">
-    </main>
-  );
+  return <main className='min-h-screen bg-slate-900'></main>
 }
